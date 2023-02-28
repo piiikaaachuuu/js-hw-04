@@ -1,0 +1,32 @@
+.tasks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.btn_1, .btn_2, .btn_3, .btn_4, .btn_5 {
+    display: inline-block; 
+    background: #8C959D; 
+    color: #fff; 
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 3px; 
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px -3px rgba(120,120,120,1);
+}
+.btn_1:hover {
+    background: #c51f1f;
+}
+.btn_2:hover {
+    background: #d88730;
+}
+.btn_3:hover {
+    background: #158d15;
+}
+.btn_4:hover {
+    background: #3a91b9;
+}
+.btn_5:hover {
+    background: #913ab9;
+}
